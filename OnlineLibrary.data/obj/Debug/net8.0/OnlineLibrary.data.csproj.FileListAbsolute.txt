@@ -1,0 +1,14 @@
+D:\online library project\OnlineLibrary.data\OnlineLibrary.data\bin\Debug\net8.0\OnlineLibrary.data.deps.json
+D:\online library project\OnlineLibrary.data\OnlineLibrary.data\bin\Debug\net8.0\OnlineLibrary.data.dll
+D:\online library project\OnlineLibrary.data\OnlineLibrary.data\bin\Debug\net8.0\OnlineLibrary.data.pdb
+D:\online library project\OnlineLibrary.data\OnlineLibrary.data\obj\Debug\net8.0\OnlineLibrary.data.csproj.AssemblyReference.cache
+D:\online library project\OnlineLibrary.data\OnlineLibrary.data\obj\Debug\net8.0\OnlineLibrary.data.GeneratedMSBuildEditorConfig.editorconfig
+D:\online library project\OnlineLibrary.data\OnlineLibrary.data\obj\Debug\net8.0\OnlineLibrary.data.AssemblyInfoInputs.cache
+D:\online library project\OnlineLibrary.data\OnlineLibrary.data\obj\Debug\net8.0\OnlineLibrary.data.AssemblyInfo.cs
+D:\online library project\OnlineLibrary.data\OnlineLibrary.data\obj\Debug\net8.0\OnlineLibrary.data.csproj.CoreCompileInputs.cache
+D:\online library project\OnlineLibrary.data\OnlineLibrary.data\obj\Debug\net8.0\OnlineLibrary.data.dll
+D:\online library project\OnlineLibrary.data\OnlineLibrary.data\obj\Debug\net8.0\refint\OnlineLibrary.data.dll
+D:\online library project\OnlineLibrary.data\OnlineLibrary.data\obj\Debug\net8.0\OnlineLibrary.data.pdb
+D:\online library project\OnlineLibrary.data\OnlineLibrary.data\obj\Debug\net8.0\ref\OnlineLibrary.data.dll
+D:\online library project\OnlineLibrary.data\OnlineLibrary.data\bin\Debug\net8.0\OnlineLibrary.Data.runtimeconfig.json
+D:\online library project\OnlineLibrary.data\OnlineLibrary.data\obj\Debug\net8.0\OnlineLibrary.Data.genruntimeconfig.cache

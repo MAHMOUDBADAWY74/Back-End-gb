@@ -1,0 +1,15 @@
+D:\online library project\OnlineLibrary.data\OnlineLibrary.Repository\bin\Debug\net8.0\OnlineLibrary.Repository.deps.json
+D:\online library project\OnlineLibrary.data\OnlineLibrary.Repository\bin\Debug\net8.0\OnlineLibrary.Repository.dll
+D:\online library project\OnlineLibrary.data\OnlineLibrary.Repository\bin\Debug\net8.0\OnlineLibrary.Repository.pdb
+D:\online library project\OnlineLibrary.data\OnlineLibrary.Repository\bin\Debug\net8.0\OnlineLibrary.data.dll
+D:\online library project\OnlineLibrary.data\OnlineLibrary.Repository\bin\Debug\net8.0\OnlineLibrary.data.pdb
+D:\online library project\OnlineLibrary.data\OnlineLibrary.Repository\obj\Debug\net8.0\OnlineLibrary.Repository.csproj.AssemblyReference.cache
+D:\online library project\OnlineLibrary.data\OnlineLibrary.Repository\obj\Debug\net8.0\OnlineLibrary.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\online library project\OnlineLibrary.data\OnlineLibrary.Repository\obj\Debug\net8.0\OnlineLibrary.Repository.AssemblyInfoInputs.cache
+D:\online library project\OnlineLibrary.data\OnlineLibrary.Repository\obj\Debug\net8.0\OnlineLibrary.Repository.AssemblyInfo.cs
+D:\online library project\OnlineLibrary.data\OnlineLibrary.Repository\obj\Debug\net8.0\OnlineLibrary.Repository.csproj.CoreCompileInputs.cache
+D:\online library project\OnlineLibrary.data\OnlineLibrary.Repository\obj\Debug\net8.0\OnlineLi.48D22BB1.Up2Date
+D:\online library project\OnlineLibrary.data\OnlineLibrary.Repository\obj\Debug\net8.0\OnlineLibrary.Repository.dll
+D:\online library project\OnlineLibrary.data\OnlineLibrary.Repository\obj\Debug\net8.0\refint\OnlineLibrary.Repository.dll
+D:\online library project\OnlineLibrary.data\OnlineLibrary.Repository\obj\Debug\net8.0\OnlineLibrary.Repository.pdb
+D:\online library project\OnlineLibrary.data\OnlineLibrary.Repository\obj\Debug\net8.0\ref\OnlineLibrary.Repository.dll
