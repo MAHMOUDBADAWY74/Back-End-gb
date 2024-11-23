@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\online library project\\OnlineLibrary.data\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A468ED7-759F-478C-AEDA-E26E1DA8857D}|OnlineLibrary.data\\OnlineLibrary.Data.csproj|d:\\online library project\\onlinelibrary.data\\onlinelibrary.data\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A468ED7-759F-478C-AEDA-E26E1DA8857D}|OnlineLibrary.data\\OnlineLibrary.Data.csproj|solutionrelative:onlinelibrary.data\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A468ED7-759F-478C-AEDA-E26E1DA8857D}|OnlineLibrary.data\\OnlineLibrary.Data.csproj|d:\\online library project\\onlinelibrary.data\\onlinelibrary.data\\fortest\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A468ED7-759F-478C-AEDA-E26E1DA8857D}|OnlineLibrary.data\\OnlineLibrary.Data.csproj|solutionrelative:onlinelibrary.data\\fortest\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3939F98-F7D4-4B59-8D18-B290B7A6E185}|OnlineLibrary.Web\\OnlineLibrary.Web.csproj|d:\\online library project\\onlinelibrary.data\\onlinelibrary.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3939F98-F7D4-4B59-8D18-B290B7A6E185}|OnlineLibrary.Web\\OnlineLibrary.Web.csproj|solutionrelative:onlinelibrary.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A468ED7-759F-478C-AEDA-E26E1DA8857D}|OnlineLibrary.data\\OnlineLibrary.Data.csproj|d:\\online library project\\onlinelibrary.data\\onlinelibrary.data\\migrations\\20241122034220_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A468ED7-759F-478C-AEDA-E26E1DA8857D}|OnlineLibrary.data\\OnlineLibrary.Data.csproj|solutionrelative:onlinelibrary.data\\migrations\\20241122034220_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A468ED7-759F-478C-AEDA-E26E1DA8857D}|OnlineLibrary.data\\OnlineLibrary.Data.csproj|d:\\online library project\\onlinelibrary.data\\onlinelibrary.data\\onlinelibrary.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A468ED7-759F-478C-AEDA-E26E1DA8857D}|OnlineLibrary.data\\OnlineLibrary.Data.csproj|solutionrelative:onlinelibrary.data\\onlinelibrary.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A468ED7-759F-478C-AEDA-E26E1DA8857D}|OnlineLibrary.data\\OnlineLibrary.Data.csproj|d:\\online library project\\onlinelibrary.data\\onlinelibrary.data\\contexts\\onlinelibraryidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A468ED7-759F-478C-AEDA-E26E1DA8857D}|OnlineLibrary.data\\OnlineLibrary.Data.csproj|solutionrelative:onlinelibrary.data\\contexts\\onlinelibraryidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A468ED7-759F-478C-AEDA-E26E1DA8857D}|OnlineLibrary.data\\OnlineLibrary.Data.csproj|d:\\online library project\\onlinelibrary.data\\onlinelibrary.data\\contexts\\onlinelibraryidentitydbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A468ED7-759F-478C-AEDA-E26E1DA8857D}|OnlineLibrary.data\\OnlineLibrary.Data.csproj|solutionrelative:onlinelibrary.data\\contexts\\onlinelibraryidentitydbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3939F98-F7D4-4B59-8D18-B290B7A6E185}|OnlineLibrary.Web\\OnlineLibrary.Web.csproj|d:\\online library project\\onlinelibrary.data\\onlinelibrary.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3939F98-F7D4-4B59-8D18-B290B7A6E185}|OnlineLibrary.Web\\OnlineLibrary.Web.csproj|solutionrelative:onlinelibrary.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A468ED7-759F-478C-AEDA-E26E1DA8857D}|OnlineLibrary.data\\OnlineLibrary.Data.csproj|d:\\online library project\\onlinelibrary.data\\onlinelibrary.data\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A468ED7-759F-478C-AEDA-E26E1DA8857D}|OnlineLibrary.data\\OnlineLibrary.Data.csproj|solutionrelative:onlinelibrary.data\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3939F98-F7D4-4B59-8D18-B290B7A6E185}|OnlineLibrary.Web\\OnlineLibrary.Web.csproj|d:\\online library project\\onlinelibrary.data\\onlinelibrary.web\\extensions\\identityservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3939F98-F7D4-4B59-8D18-B290B7A6E185}|OnlineLibrary.Web\\OnlineLibrary.Web.csproj|solutionrelative:onlinelibrary.web\\extensions\\identityservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3939F98-F7D4-4B59-8D18-B290B7A6E185}|OnlineLibrary.Web\\OnlineLibrary.Web.csproj|d:\\online library project\\onlinelibrary.data\\onlinelibrary.web\\onlinelibrary.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3939F98-F7D4-4B59-8D18-B290B7A6E185}|OnlineLibrary.Web\\OnlineLibrary.Web.csproj|solutionrelative:onlinelibrary.web\\onlinelibrary.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC7F3DC-67C9-482C-9408-CDAF77C2C227}|OnlineLibrary.Service\\OnlineLibrary.Service.csproj|d:\\online library project\\onlinelibrary.data\\onlinelibrary.service\\onlinelibrary.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CC7F3DC-67C9-482C-9408-CDAF77C2C227}|OnlineLibrary.Service\\OnlineLibrary.Service.csproj|solutionrelative:onlinelibrary.service\\onlinelibrary.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A468ED7-759F-478C-AEDA-E26E1DA8857D}|OnlineLibrary.data\\OnlineLibrary.Data.csproj|d:\\online library project\\onlinelibrary.data\\onlinelibrary.data\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A468ED7-759F-478C-AEDA-E26E1DA8857D}|OnlineLibrary.data\\OnlineLibrary.Data.csproj|solutionrelative:onlinelibrary.data\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFF48B1-18C6-4DCA-ACB9-33168AAEA6DE}|OnlineLibrary.Repository\\OnlineLibrary.Repository.csproj|d:\\online library project\\onlinelibrary.data\\onlinelibrary.repository\\onlinelibrary.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4BFF48B1-18C6-4DCA-ACB9-33168AAEA6DE}|OnlineLibrary.Repository\\OnlineLibrary.Repository.csproj|solutionrelative:onlinelibrary.repository\\onlinelibrary.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3939F98-F7D4-4B59-8D18-B290B7A6E185}|OnlineLibrary.Web\\OnlineLibrary.Web.csproj|d:\\online library project\\onlinelibrary.data\\onlinelibrary.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3939F98-F7D4-4B59-8D18-B290B7A6E185}|OnlineLibrary.Web\\OnlineLibrary.Web.csproj|solutionrelative:onlinelibrary.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.data\\ForTest\\Test.cs",
+              "RelativeDocumentMoniker": "OnlineLibrary.data\\ForTest\\Test.cs",
+              "ToolTip": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.data\\ForTest\\Test.cs",
+              "RelativeToolTip": "OnlineLibrary.data\\ForTest\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:08:13.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OnlineLibrary.Data.csproj",
+              "DocumentMoniker": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.data\\OnlineLibrary.Data.csproj",
+              "RelativeDocumentMoniker": "OnlineLibrary.data\\OnlineLibrary.Data.csproj",
+              "ToolTip": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.data\\OnlineLibrary.Data.csproj",
+              "RelativeToolTip": "OnlineLibrary.data\\OnlineLibrary.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T23:21:04.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OnlineLibraryIdentityDbContext.cs",
+              "DocumentMoniker": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.data\\Contexts\\OnlineLibraryIdentityDbContext.cs",
+              "RelativeDocumentMoniker": "OnlineLibrary.data\\Contexts\\OnlineLibraryIdentityDbContext.cs",
+              "ToolTip": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.data\\Contexts\\OnlineLibraryIdentityDbContext.cs",
+              "RelativeToolTip": "OnlineLibrary.data\\Contexts\\OnlineLibraryIdentityDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:26:27.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241122034220_AddIdentityTables.cs",
+              "DocumentMoniker": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.data\\Migrations\\20241122034220_AddIdentityTables.cs",
+              "RelativeDocumentMoniker": "OnlineLibrary.data\\Migrations\\20241122034220_AddIdentityTables.cs",
+              "ToolTip": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.data\\Migrations\\20241122034220_AddIdentityTables.cs",
+              "RelativeToolTip": "OnlineLibrary.data\\Migrations\\20241122034220_AddIdentityTables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:42:21.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.Web\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineLibrary.Web\\Program.cs",
+              "ToolTip": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.Web\\Program.cs",
+              "RelativeToolTip": "OnlineLibrary.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:02:27.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.data\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "OnlineLibrary.data\\Entities\\ApplicationUser.cs",
+              "ToolTip": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.data\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "OnlineLibrary.data\\Entities\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:09:50.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OnlineLibraryIdentityDbContextFactory.cs",
+              "DocumentMoniker": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.data\\Contexts\\OnlineLibraryIdentityDbContextFactory.cs",
+              "RelativeDocumentMoniker": "OnlineLibrary.data\\Contexts\\OnlineLibraryIdentityDbContextFactory.cs",
+              "ToolTip": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.data\\Contexts\\OnlineLibraryIdentityDbContextFactory.cs",
+              "RelativeToolTip": "OnlineLibrary.data\\Contexts\\OnlineLibraryIdentityDbContextFactory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:33:16.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineLibrary.Web\\appsettings.json",
+              "ToolTip": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.Web\\appsettings.json",
+              "RelativeToolTip": "OnlineLibrary.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T23:57:58.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IdentityServicesExtensions.cs",
+              "DocumentMoniker": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.Web\\Extensions\\IdentityServicesExtensions.cs",
+              "RelativeDocumentMoniker": "OnlineLibrary.Web\\Extensions\\IdentityServicesExtensions.cs",
+              "ToolTip": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.Web\\Extensions\\IdentityServicesExtensions.cs",
+              "RelativeToolTip": "OnlineLibrary.Web\\Extensions\\IdentityServicesExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T01:48:28.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OnlineLibrary.Web.csproj",
+              "DocumentMoniker": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.Web\\OnlineLibrary.Web.csproj",
+              "RelativeDocumentMoniker": "OnlineLibrary.Web\\OnlineLibrary.Web.csproj",
+              "ToolTip": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.Web\\OnlineLibrary.Web.csproj",
+              "RelativeToolTip": "OnlineLibrary.Web\\OnlineLibrary.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T23:17:19.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.data\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "OnlineLibrary.data\\Entities\\Address.cs",
+              "ToolTip": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.data\\Entities\\Address.cs",
+              "RelativeToolTip": "OnlineLibrary.data\\Entities\\Address.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T01:45:23.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OnlineLibrary.Service.csproj",
+              "DocumentMoniker": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.Service\\OnlineLibrary.Service.csproj",
+              "RelativeDocumentMoniker": "OnlineLibrary.Service\\OnlineLibrary.Service.csproj",
+              "ToolTip": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.Service\\OnlineLibrary.Service.csproj",
+              "RelativeToolTip": "OnlineLibrary.Service\\OnlineLibrary.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T23:17:08.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.data\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "OnlineLibrary.data\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.data\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "OnlineLibrary.data\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:21:41.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OnlineLibrary.Repository.csproj",
+              "DocumentMoniker": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.Repository\\OnlineLibrary.Repository.csproj",
+              "RelativeDocumentMoniker": "OnlineLibrary.Repository\\OnlineLibrary.Repository.csproj",
+              "ToolTip": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.Repository\\OnlineLibrary.Repository.csproj",
+              "RelativeToolTip": "OnlineLibrary.Repository\\OnlineLibrary.Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T03:20:16.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "OnlineLibrary.Web\\appsettings.Development.json",
+              "ToolTip": "D:\\online library project\\OnlineLibrary.data\\OnlineLibrary.Web\\appsettings.Development.json",
+              "RelativeToolTip": "OnlineLibrary.Web\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T03:10:26.806Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
