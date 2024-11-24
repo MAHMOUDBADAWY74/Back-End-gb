@@ -1,48 +1,51 @@
 
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Design;
 using OnlineLibrary.Data.Contexts;
 using OnlineLibrary.Data.Entities;
+using OnlineLibrary.Web.Extensions;
+using OnlineLibrary.Web.Helper;
+using Store.Web.Extentions;
 
 namespace OnlineLibrary.Web
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
-
+            
             builder.Services.AddControllers();
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+            
             builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
+            builder.Services.AddSwaggerDocumentation();
+
+            
             builder.Services.AddDbContext<OnlineLibraryIdentityDbContext>(options =>
             {
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
 
-            //builder.Services.AddIdentity<ApplicationUser, IdentityRole>(config =>
-            //{
-            //    config.Password.RequiredUniqueChars = 1;
-            //    config.Password.RequireDigit = true;
-            //    config.Password.RequireLowercase = true;
-            //    config.Password.RequireUppercase = true;
-            //    config.Password.RequireNonAlphanumeric = true;
-            //    config.Password.RequiredLength = 6;
-            //    config.User.RequireUniqueEmail = true;
-            //    config.Lockout.AllowedForNewUsers = true;
-            //    config.Lockout.MaxFailedAccessAttempts = 3;
-            //    config.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromHours(1);
+            
+            builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
+                .AddEntityFrameworkStores<OnlineLibraryIdentityDbContext>()
+                .AddDefaultTokenProviders();
 
-            //}).AddEntityFrameworkStores<OnlineLibraryDbContext>();
+            builder.Services.AddApplicationServices();
+            builder.Services.AddIdentityServices(builder.Configuration);
 
-
+            //for chatgpt
+            // Register the DbContextFactory
+            builder.Services.AddTransient<IDesignTimeDbContextFactory<OnlineLibraryIdentityDbContext>, OnlineLibraryIdentityDbContextFactory>();
 
             var app = builder.Build();
+           
+            await ApplySeeding.ApplySeedingAsync(app);
 
-            // Configure the HTTP request pipeline.
+            // Configure middleware pipeline
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();
@@ -50,12 +53,13 @@ namespace OnlineLibrary.Web
             }
 
             app.UseHttpsRedirection();
-
             app.UseAuthentication();
             app.UseAuthorization();
 
-
             app.MapControllers();
+
+            
+
 
             app.Run();
         }
