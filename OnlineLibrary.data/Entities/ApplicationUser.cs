@@ -14,7 +14,7 @@ namespace OnlineLibrary.Data.Entities
 
         public String? LastName { get; set; }
         public Address Address { get; set; }
-        public DateTime? DateOfBirth { get; set; }
+        public DateOnly? DateOfBirth { get; set; }
 
         public String? Gender { get; set; }
 
